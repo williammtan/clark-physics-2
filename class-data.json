@@ -1,0 +1,3055 @@
+{
+  "version": 1,
+  "name": "AP Physics 2 2023-2024",
+  "section": "Clark",
+  "room": "G204",
+  "calendarUrl": "https://calendar.google.com/render?cid\u003dc_classroom8b0ae432@group.calendar.google.com",
+  "courseFolder": {
+    "id": "1rr7suQLpdtNLO35P-2LgLr9cq0f7R5CsFn2ddYuWyOY85TnFBRbqVnM5bEjOVoKzkuY5J1dI",
+    "name": "AP Physics 2 2023-2024 Clark",
+    "openUrl": "https://drive.google.com/drive/folders/1rr7suQLpdtNLO35P-2LgLr9cq0f7R5CsFn2ddYuWyOY85TnFBRbqVnM5bEjOVoKzkuY5J1dI"
+  },
+  "photoUrl": "https://gstatic.com/classroom/themes/Physics.jpg",
+  "subject": "Physics",
+  "courseState": "ACTIVE",
+  "gradeCategories": [{
+    "name": "Check-in Questions"
+  }, {
+    "name": "Albert.io"
+  }],
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2024-03-22T00:37:49.091Z",
+    "updateTime": "2024-04-02T06:42:10.244Z",
+    "publicationTime": "2024-03-22T00:37:48.657Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 7 - Modern"
+    }],
+    "materials": [{
+      "link": {
+        "url": "https://www.albert.io/assignment/0addcd68-1efb-45d4-997b-d9f84ec81176",
+        "title": "Albert | Learn by doing | Grades 5-12 reading, writing, math, science, and test prep",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://www.albert.io/assignment/0addcd68-1efb-45d4-997b-d9f84ec81176"
+      }
+    }],
+    "courseWork": {
+      "title": "Modern Physics",
+      "dueTime": "2024-03-25T06:50:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2024-03-20T01:58:01.442Z",
+    "updateTime": "2024-03-21T00:27:17.347Z",
+    "scheduledTime": "2024-03-21T00:25:00Z",
+    "publicationTime": "2024-03-21T00:27:17.328Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 7 - Modern"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScJdEMejAKsBNbAUufET87GlYPH8B398tCjXKx8IiCJmoXcug/viewform?hr_submission\u003dChkItZqxoZkBEhAIlf-p-8ATEgcI_LmEtp0PEAE",
+        "title": "Mar 21 2024 Check in Questions",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/kQGvHMm-24fgMV2zPpWX9L0BTWk9vG_H1Eq4LbdCPO8i9XqxwVepWSAkjlP3XyDHB_h19x4-17M\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Mar 21 2024 Check in Questions",
+      "maxPoints": 3.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2024-03-18T04:04:37.943Z",
+    "updateTime": "2024-03-19T01:54:03.896Z",
+    "scheduledTime": "2024-03-19T01:50:00Z",
+    "publicationTime": "2024-03-19T01:54:03.877Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 7 - Modern"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdC312Nj2RBf7CE5u-OkVDS8pHZtKGR6KFGRDK5B8FtFeXLdQ/viewform?hr_submission\u003dChkItZqxoZkBEhAIut_MgL8TEgcI_LmEtp0PEAE",
+        "title": "Mar 19 2024 Check in Questions",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/VYIskqhdumrNvfOuUbH1LfP7dJc_JLMvNhBdl8-DnBmG1NL61FF7qmBARLl1mES2Y2oDUcTuDds\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Mar 19 2024 Check in Questions",
+      "maxPoints": 3.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdC312Nj2RBf7CE5u-OkVDS8pHZtKGR6KFGRDK5B8FtFeXLdQ/viewscore?viewscore\u003dAE0zAgDr1RPWsPbVGEPfddMW4BzjBs2xcWSQws1tzHcouq1j0IBRBk78QCLWtcno6w",
+              "title": "Mar 19 2024 Check in Questions",
+              "thumbnailUrl": "https://lh4.googleusercontent.com/VYIskqhdumrNvfOuUbH1LfP7dJc_JLMvNhBdl8-DnBmG1NL61FF7qmBARLl1mES2Y2oDUcTuDds\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2024-03-07T02:39:24.388Z",
+    "updateTime": "2024-03-08T03:49:31.744Z",
+    "scheduledTime": "2024-03-08T03:45:00Z",
+    "publicationTime": "2024-03-08T03:49:31.713Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 7 - Modern"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScQIQv0PgBRHOwX7r1MVoHpf57S0tZyyurPcV2tSjiOFNlI1A/viewform?hr_submission\u003dChkItZqxoZkBEhAIg43n5LcTEgcI_LmEtp0PEAE",
+        "title": "Mar 8 2024 Check in Questions",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/5OzV4dtcsYSk5xomWEmvQBgJP69PIy-z0VmG-m9d-GtQwyBywEkixwdlHOMfs4bOHMs3Oz00Qns\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Mar 8 2024 Check in Questions",
+      "maxPoints": 3.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScQIQv0PgBRHOwX7r1MVoHpf57S0tZyyurPcV2tSjiOFNlI1A/viewscore?viewscore\u003dAE0zAgBTUfx2XcdtFxwUNDSx9V15M5sRCDCI7PaYWl7Q9DX2AEhJGB0nvpqEt2KIZA",
+              "title": "Mar 8 2024 Check in Questions",
+              "thumbnailUrl": "https://lh4.googleusercontent.com/5OzV4dtcsYSk5xomWEmvQBgJP69PIy-z0VmG-m9d-GtQwyBywEkixwdlHOMfs4bOHMs3Oz00Qns\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2024-03-05T03:44:46.266Z",
+    "updateTime": "2024-03-06T05:24:35.046Z",
+    "scheduledTime": "2024-03-06T05:20:00Z",
+    "publicationTime": "2024-03-06T05:24:35.021Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 7 - Modern"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSd2a6__AoWWgoRGCTNF_WGmdLNUZcQVpeC3vSONP5RIcYQgLg/viewform?hr_submission\u003dChkItZqxoZkBEhAI-bWAp5cTEgcI_LmEtp0PEAE",
+        "title": "Mar 6 2024 Check in Questions",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/N08TlVN792_BYEKhlcX0lAfToB1R1M3NSOqJyCIe-zmieQFF7RNfHK-oq3NiI204HgaxAZPFfl8\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Mar 6 2024 Check in Questions",
+      "maxPoints": 3.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2024-02-29T08:34:17.659Z",
+    "updateTime": "2024-03-01T07:09:31.997Z",
+    "scheduledTime": "2024-03-01T07:05:00Z",
+    "publicationTime": "2024-03-01T07:09:31.977Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 7 - Modern"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfPNyfTfkIArTuxqNHsbdBx1cQXIztDn5JKE56ZJ6CKzyKKzQ/viewform?hr_submission\u003dChkItZqxoZkBEhAIpeLr7ZYTEgcI_LmEtp0PEAE",
+        "title": "Mar 1 2024 Check in Questions",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/4XdvMbK5ISnYkJpEY8RaVNDVRI6dAlcpHpMya2sIY-Qs9zCW0X_n9SkbYIRq6QObjptJGaZvHlI\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Mar 1 2024 Check in Questions",
+      "maxPoints": 3.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfPNyfTfkIArTuxqNHsbdBx1cQXIztDn5JKE56ZJ6CKzyKKzQ/viewscore?viewscore\u003dAE0zAgDYBWsSaxwf5geGNv-OuR5AfOCsYWDEhNmTTAMPEhkYwjLLIECzgJwzc6PS5g",
+              "title": "Mar 1 2024 Check in Questions",
+              "thumbnailUrl": "https://lh4.googleusercontent.com/4XdvMbK5ISnYkJpEY8RaVNDVRI6dAlcpHpMya2sIY-Qs9zCW0X_n9SkbYIRq6QObjptJGaZvHlI\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2024-02-28T08:47:01.117Z",
+    "updateTime": "2024-02-29T05:23:08.578Z",
+    "scheduledTime": "2024-02-29T05:20:00Z",
+    "publicationTime": "2024-02-29T05:23:08.555Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 7 - Modern"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeKOeEEWQGNtPo-Zse19Z61BbZAjzCeNg8ebfQ-bacy7KFang/viewform?hr_submission\u003dChkItZqxoZkBEhAI563h1ZYTEgcI_LmEtp0PEAE",
+        "title": "Feb 29 2024 Check in Questions",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/utzU4Imf6KeEDfV0WNnINBQO7yZoxy8L6G_KWrAMDig6eQAyIqXSfA6RuNRFaddJ9k_5-JKakWw\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Feb 29 2024 Check in Questions",
+      "maxPoints": 5.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2024-02-27T01:51:40.924Z",
+    "updateTime": "2024-02-28T00:29:39.025Z",
+    "scheduledTime": "2024-02-28T00:25:00Z",
+    "publicationTime": "2024-02-28T00:29:39.003Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 7 - Modern"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfZUU04EJ20HjzGttRN30PvnmFWRZORqz3bFX_9SfT-NYeSEg/viewform?hr_submission\u003dChkItZqxoZkBEhAIg9zQuK8TEgcI_LmEtp0PEAE",
+        "title": "Feb 28 2024 Check in Questions",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/QvvkXpGInAlLoL3FmLA_x67td2Mb8bb5j7mFNgea_8TY1GiooqCp5oUTwXaz01B3hOlSqWWD_MY\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Feb 28 2024 Check in Questions",
+      "maxPoints": 3.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "assignedGrade": 2.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfZUU04EJ20HjzGttRN30PvnmFWRZORqz3bFX_9SfT-NYeSEg/viewscore?viewscore\u003dAE0zAgDwGH6FfH6wIdh9iAPpky4qZeMe1IwOgke1OseZjklTtIjs3M2mX74jKE5PRA",
+              "title": "Feb 28 2024 Check in Questions",
+              "thumbnailUrl": "https://lh4.googleusercontent.com/QvvkXpGInAlLoL3FmLA_x67td2Mb8bb5j7mFNgea_8TY1GiooqCp5oUTwXaz01B3hOlSqWWD_MY\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2024-02-20T01:24:11.894Z",
+    "updateTime": "2024-02-20T05:24:59.862Z",
+    "scheduledTime": "2024-02-20T05:20:00Z",
+    "publicationTime": "2024-02-20T05:24:59.842Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 7 - Modern"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScKqXVOYpRNsp3GBqz_4r5KFRYT2-jtWVEKdPOK2riBBb2Ojg/viewform?hr_submission\u003dChkItZqxoZkBEhAI9p7C4qkTEgcI_LmEtp0PEAE",
+        "title": "Feb 20 2024 Check in Questions",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/oy1qDDopQJKge5cjcFlwBiHAI4d-VQViCeVSDGrKdjFBDb7KKc6ddj4kNYFwzDSKHAqik1AXgTk\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Feb 20 2024 Check in Questions",
+      "maxPoints": 3.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScKqXVOYpRNsp3GBqz_4r5KFRYT2-jtWVEKdPOK2riBBb2Ojg/viewscore?viewscore\u003dAE0zAgBr-y4t7G7HwRnrgNmxm3U1Q6yn3MsY8sGViQMxKTY93mRd5Q_s1IDlst8oRw",
+              "title": "Feb 20 2024 Check in Questions",
+              "thumbnailUrl": "https://lh4.googleusercontent.com/oy1qDDopQJKge5cjcFlwBiHAI4d-VQViCeVSDGrKdjFBDb7KKc6ddj4kNYFwzDSKHAqik1AXgTk\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2024-02-15T08:09:52.297Z",
+    "updateTime": "2024-02-16T06:55:33.007Z",
+    "scheduledTime": "2024-02-16T06:55:00Z",
+    "publicationTime": "2024-02-16T06:55:32.860Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 7 - Modern"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScUabV02IDIY3OzYzqDwDDrJSczZxQoPjvrFZQvt0gYos2m9w/viewform?hr_submission\u003dChkItZqxoZkBEhAIx42uoqcTEgcI_LmEtp0PEAE",
+        "title": "Feb 16 2024 Check in Questions",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/xfZtmKsU5kgnpKTcJiTx9SVLKxsDuaw60d91IRcjX_MSBfUAlfvTS9GU0-1zUeAIuEyZ6wlCYNY\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Feb 16 2024 Check in Questions",
+      "maxPoints": 3.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScUabV02IDIY3OzYzqDwDDrJSczZxQoPjvrFZQvt0gYos2m9w/viewscore?viewscore\u003dAE0zAgABKQFOEr40RX-oh-aWHrm-wHudinCdw-JjfFyzutgM-HkMQt7QAuDhJGrceA",
+              "title": "Feb 16 2024 Check in Questions",
+              "thumbnailUrl": "https://lh6.googleusercontent.com/xfZtmKsU5kgnpKTcJiTx9SVLKxsDuaw60d91IRcjX_MSBfUAlfvTS9GU0-1zUeAIuEyZ6wlCYNY\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2024-02-15T04:41:10.383Z",
+    "updateTime": "2024-02-15T05:51:01.706Z",
+    "publicationTime": "2024-02-15T05:51:01.597Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 7 - Modern"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdhNOfBD2jt6LTPrv6EWdOP8Q_NBgZxPv-4tpZCszkuUuo16Q/viewform?hr_submission\u003dChkItZqxoZkBEhAI2YvHufsSEgcI_LmEtp0PEAE",
+        "title": "Feb 15 2024 Check-in Questions",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/AeBLe_8UUw7_hQdnLdbYhh2hVafVlMlDQbwlRIXD0kcT7zmorxYCsrUPfVdFobD80ydITVIsJ6k\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Feb 15 2024 Check-in Questions",
+      "maxPoints": 3.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdhNOfBD2jt6LTPrv6EWdOP8Q_NBgZxPv-4tpZCszkuUuo16Q/viewscore?viewscore\u003dAE0zAgBrjQMTER2eA0tnG8ecvMcTR3EmhAiqqrHK8HrDPycp4BIFX56cIMqKrKdwMg",
+              "title": "Feb 15 2024 Check-in Questions",
+              "thumbnailUrl": "https://lh4.googleusercontent.com/AeBLe_8UUw7_hQdnLdbYhh2hVafVlMlDQbwlRIXD0kcT7zmorxYCsrUPfVdFobD80ydITVIsJ6k\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2024-01-31T00:50:31.097Z",
+    "updateTime": "2024-02-01T05:23:36.932Z",
+    "scheduledTime": "2024-02-01T05:20:00Z",
+    "publicationTime": "2024-02-01T05:23:36.912Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 6 - Optics"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdU_36ChcPyMbulsl5lYBShd5IU9t6lXUZjiICBLRpi-iEuYg/viewform?hr_submission\u003dChkItZqxoZkBEhAI5smG7O0SEgcI_LmEtp0PEAE",
+        "title": "Feb 1 2024 Check in Questions",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/CQUaTcErbLj2bJCp9DZoB-Pm3X107NSmrspirpuxZynTwg1C40X4xkOSPKup-UC2-y2dlS3u27w\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Feb 1 2024 Check in Questions",
+      "maxPoints": 3.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2024-01-31T02:31:05.490Z",
+    "updateTime": "2024-01-31T02:53:25.553Z",
+    "publicationTime": "2024-01-31T02:31:04.984Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 6 - Optics"
+    }],
+    "materials": [{
+      "link": {
+        "url": "https://www.albert.io/assignment/3bdc570d-ae05-4df1-8473-7d8ad9bf9a25",
+        "title": "Albert | Learn by doing | Grades 5-12 reading, writing, math, science, and test prep",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://www.albert.io/assignment/3bdc570d-ae05-4df1-8473-7d8ad9bf9a25"
+      }
+    }],
+    "courseWork": {
+      "title": "AP Optics Albert.io",
+      "dueTime": "2024-02-05T03:20:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2024-01-29T08:48:16.491Z",
+    "updateTime": "2024-01-30T06:57:30.576Z",
+    "scheduledTime": "2024-01-30T06:55:00Z",
+    "publicationTime": "2024-01-30T06:57:30.384Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 6 - Optics"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdwT9-qrCymJNgrFtiSLCB6cNgKR-MWwWWPqumoGAWg-g4n1Q/viewform?hr_submission\u003dChkItZqxoZkBEhAIh7Kds-0SEgcI_LmEtp0PEAE",
+        "title": "Jan 30 2024 Check in Questions",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/dSzQYSUTtXnIf9r8lo7b268opG9fPCMM5Y707ASca-SPjcxcgcybJnEXX0kJjkUy-qqlafA5Dow\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Jan 30 2024 Check in Questions",
+      "maxPoints": 3.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "assignedGrade": 2.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdwT9-qrCymJNgrFtiSLCB6cNgKR-MWwWWPqumoGAWg-g4n1Q/viewscore?viewscore\u003dAE0zAgDwAaavAEYi8sGakmdjBQQuq5swVWl6Co31RVwCptreGCY8GxjIah3U1SRZPQ",
+              "title": "Jan 30 2024 Check in Questions",
+              "thumbnailUrl": "https://lh5.googleusercontent.com/dSzQYSUTtXnIf9r8lo7b268opG9fPCMM5Y707ASca-SPjcxcgcybJnEXX0kJjkUy-qqlafA5Dow\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2024-01-28T10:00:14.093Z",
+    "updateTime": "2024-01-29T05:23:46.534Z",
+    "scheduledTime": "2024-01-29T05:20:00Z",
+    "publicationTime": "2024-01-29T05:23:46.512Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 6 - Optics"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSchw_qor29vTMAJKt2QZE0VdUwT_HI3CMtCLdEUy2MlTx7Rfg/viewform?hr_submission\u003dChkItZqxoZkBEhAIm8XLp-0SEgcI_LmEtp0PEAE",
+        "title": "Jan 29 2024 Check in Questions",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/6bdhlLKrHHTczadToguV_jyXat7WxCN2gfS-_QeKPK3-5V3R2F8U2sCFPCWqnmOmu-QSowy0JGU\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Jan 29 2024 Check in Questions",
+      "maxPoints": 3.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSchw_qor29vTMAJKt2QZE0VdUwT_HI3CMtCLdEUy2MlTx7Rfg/viewscore?viewscore\u003dAE0zAgDQ2OaA8EYOLRT770vFLGgm5lJKbppJmGOC87k5r3GhX9N6jbGAu36wK72zkw",
+              "title": "Jan 29 2024 Check in Questions",
+              "thumbnailUrl": "https://lh5.googleusercontent.com/6bdhlLKrHHTczadToguV_jyXat7WxCN2gfS-_QeKPK3-5V3R2F8U2sCFPCWqnmOmu-QSowy0JGU\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2024-01-25T01:39:01.140Z",
+    "updateTime": "2024-01-26T01:16:21.812Z",
+    "scheduledTime": "2024-01-26T01:15:00Z",
+    "publicationTime": "2024-01-26T01:16:21.797Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 6 - Optics"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSe4MKnMaleq-UZuDqsLvFEKJFg9t0b8LwR1mRm5ySI_8UvSLw/viewform?hr_submission\u003dChkItZqxoZkBEhAIvpO6qJETEgcI_LmEtp0PEAE",
+        "title": "Jan 26 2024 Check in Questions",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/R1mHtWqOJyRS-fgz2g6VIJ6uzusZrKKJmTVn4yAkKL8lzqQxSIGaVd8EvsBXqRmx6Q8q6d_S2Dw\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Jan 26 2024 Check in Questions",
+      "maxPoints": 3.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2024-01-23T05:57:57.906Z",
+    "updateTime": "2024-01-24T01:52:36.907Z",
+    "scheduledTime": "2024-01-24T01:50:00Z",
+    "publicationTime": "2024-01-24T01:52:36.774Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 6 - Optics"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdUL_LGdReko7l3S2RnSe8b3ZjvwNofk-2YQGyZaDG8dj0tEw/viewform?hr_submission\u003dChkItZqxoZkBEhAIm9n0yo8TEgcI_LmEtp0PEAE",
+        "title": "Jan 24 2024 Check in Questions",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/9DSI46HtzskK-Lh2P_MkolOsKbh5S9DApXDvwVadVQ-qBlCONmG-nGnAM6sLGOz51VNuvXzZDf0\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Jan 24 2024 Check in Questions",
+      "maxPoints": 3.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "assignedGrade": 1.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdUL_LGdReko7l3S2RnSe8b3ZjvwNofk-2YQGyZaDG8dj0tEw/viewscore?viewscore\u003dAE0zAgDQn5A45ezlyl875yhL3TpLDEYoaztFMWnNojHYAlhq8hM973O1BKTBduhwNA",
+              "title": "Jan 24 2024 Check in Questions",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/9DSI46HtzskK-Lh2P_MkolOsKbh5S9DApXDvwVadVQ-qBlCONmG-nGnAM6sLGOz51VNuvXzZDf0\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2024-01-19T05:47:15.824Z",
+    "updateTime": "2024-01-22T03:15:53.736Z",
+    "scheduledTime": "2024-01-22T03:15:00Z",
+    "publicationTime": "2024-01-22T03:15:53.490Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 6 - Optics"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScwFolJAYEOwZgEyLgLkWJUGiibMxFwVeLdUBBdZEIT20Hshw/viewform?hr_submission\u003dChkItZqxoZkBEhAIhv2i0IgTEgcI_LmEtp0PEAE",
+        "title": "Jan 22 2024 Check in Questions",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/xsJkfS-PDuQtQOsgCkfkPeb5rREyv6RumuKTCW_zj-VvatfVQHUFAmZ7-y04xcbvkK5oTXIjjdc\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Jan 22 2024 Check in Questions",
+      "maxPoints": 3.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScwFolJAYEOwZgEyLgLkWJUGiibMxFwVeLdUBBdZEIT20Hshw/viewscore?viewscore\u003dAE0zAgAnrMfxudxBdKHjcIup57sZ2ltJ3A28Mu4u3nuPZoxLnQ3T0Mo4f9AkZMKBoQ",
+              "title": "Jan 22 2024 Check in Questions",
+              "thumbnailUrl": "https://lh4.googleusercontent.com/xsJkfS-PDuQtQOsgCkfkPeb5rREyv6RumuKTCW_zj-VvatfVQHUFAmZ7-y04xcbvkK5oTXIjjdc\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2024-01-17T01:32:25.920Z",
+    "updateTime": "2024-01-18T05:24:36.281Z",
+    "scheduledTime": "2024-01-18T05:20:00Z",
+    "publicationTime": "2024-01-18T05:24:36.155Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 6 - Optics"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScpT_Ixj5IAv09-QvI4T-nTeWF7L7r_ZIj4Mzbz9llxE5cPkg/viewform?hr_submission\u003dChkItZqxoZkBEhAI2N-h64YTEgcI_LmEtp0PEAE",
+        "title": "Jan 18 2024 Check in Questions",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/PjNfuhdv4GUcgoin2FF-ch5F9wvCgwsZCYoGR7YjAZPjUltMrGTojxtgZi3qMs4DMiIcRkW4f8I\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Jan 18 2024 Check in Questions",
+      "maxPoints": 3.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2024-01-15T04:17:27.661Z",
+    "updateTime": "2024-01-16T06:45:07.761Z",
+    "scheduledTime": "2024-01-16T06:45:00Z",
+    "publicationTime": "2024-01-16T06:45:07.531Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 6 - Optics"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScS88B1SHRXn5Am2YB8_PMoTNjGXsYvdX72km51FGW-iq40hw/viewform?hr_submission\u003dChkItZqxoZkBEhAIlouDic4SEgcI_LmEtp0PEAE",
+        "title": "Jan 16 2024 Check in Questions",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/ZseZ12OurnqsZI2hfTGswgL-FRIPdiPwhVlFu6_q2UygDkoX9w8EtOUZ26rUBWT7DTjCLF0apLM\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Jan 16 2024 Check in Questions",
+      "maxPoints": 3.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "assignedGrade": 2.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScS88B1SHRXn5Am2YB8_PMoTNjGXsYvdX72km51FGW-iq40hw/viewscore?viewscore\u003dAE0zAgBc_xljVnFwekUj9-3kAFV4p5chU6HzcJs3QtAgkGY2A9YmC2mDF1alfR9SGw",
+              "title": "Jan 16 2024 Check in Questions",
+              "thumbnailUrl": "https://lh4.googleusercontent.com/ZseZ12OurnqsZI2hfTGswgL-FRIPdiPwhVlFu6_q2UygDkoX9w8EtOUZ26rUBWT7DTjCLF0apLM\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2024-01-15T02:38:07.271Z",
+    "updateTime": "2024-01-15T05:20:51.692Z",
+    "scheduledTime": "2024-01-15T05:20:00Z",
+    "publicationTime": "2024-01-15T05:20:51.563Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 6 - Optics"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSek5PjPj4b0g0wFfINAhn3T7UPZUnjA-Vvx2v5gQZmcI0PVUA/viewform?hr_submission\u003dChkItZqxoZkBEhAI9ojV6OoSEgcI_LmEtp0PEAE",
+        "title": "Jan 15 2024 Check in Questions",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/xciQJHXimSDZggwBG_k_eOdMYvyTgALTYcv4l7PqMOBDIM0sI2AveL6RTtPBqyZVoXGbrqW0iQE\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Jan 15 2024 Check in Questions",
+      "maxPoints": 3.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSek5PjPj4b0g0wFfINAhn3T7UPZUnjA-Vvx2v5gQZmcI0PVUA/viewscore?viewscore\u003dAE0zAgCg61KTMOUNJ14MmcJ3viN58ISPCGmQqPL0Lu_06mdQl__aOKY1QaNy4WWWbQ",
+              "title": "Jan 15 2024 Check in Questions",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/xciQJHXimSDZggwBG_k_eOdMYvyTgALTYcv4l7PqMOBDIM0sI2AveL6RTtPBqyZVoXGbrqW0iQE\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2024-01-09T01:38:34.627Z",
+    "updateTime": "2024-01-10T01:50:28.599Z",
+    "scheduledTime": "2024-01-10T01:50:00Z",
+    "publicationTime": "2024-01-10T01:50:28.366Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 6 - Optics"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfXo7Dg4dDpN7Caca6kxMGgXeVlqERlhCeCt53EuX-WsivHzA/viewform?hr_submission\u003dChkItZqxoZkBEhAIm67Uu4ITEgcI_LmEtp0PEAE",
+        "title": "Jan 10 2023 Check in Questions",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/yaEXMtCnwYuLnf42JBrgR6C_MoBE-hW94j4eoPy0wI9b1UMUMKiBzx_uhh2uSllkITEq0_GbOVE\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Jan 10 2024 Check in Questions",
+      "maxPoints": 3.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "assignedGrade": 1.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfXo7Dg4dDpN7Caca6kxMGgXeVlqERlhCeCt53EuX-WsivHzA/viewscore?viewscore\u003dAE0zAgCXaMOirDkD2Fyjmwf1v7fmUYM7OikEne0Vajz95kdsmgyZ6S1Phi3lQggu1A",
+              "title": "Jan 10 2023 Check in Questions",
+              "thumbnailUrl": "https://lh5.googleusercontent.com/yaEXMtCnwYuLnf42JBrgR6C_MoBE-hW94j4eoPy0wI9b1UMUMKiBzx_uhh2uSllkITEq0_GbOVE\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2023-12-07T02:45:25.226Z",
+    "updateTime": "2023-12-08T05:45:31.828Z",
+    "scheduledTime": "2023-12-08T05:45:00Z",
+    "publicationTime": "2023-12-08T05:45:31.772Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 5 - Electromagnetism"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdbhwE-CRghUD0XtGKMutLXIc08hdwj5EnDRYm_WLpmUzGtBQ/viewform?hr_submission\u003dChkItZqxoZkBEhAIuJqQruISEgcI_LmEtp0PEAE",
+        "title": "Dec 8 2023 Check in Questions",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/AQkv-B88qwpd6kL_zBw0oQMTHQ4g8VtAl71p66efpI7w-gjbGt6Gl6AIDlNE50oK8iF1KejOkyY\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Dec 8 2023 Check in Questions",
+      "maxPoints": 3.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2023-12-06T04:20:33.883Z",
+    "updateTime": "2023-12-07T00:25:10.904Z",
+    "scheduledTime": "2023-12-07T00:25:00Z",
+    "publicationTime": "2023-12-07T00:25:10.661Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 5 - Electromagnetism"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSci9e9TydLqD1lbGa1wdM28hJMqllii7EV__jw5Tbz-t1kadA/viewform?hr_submission\u003dChkItZqxoZkBEhAIo7H_tOESEgcI_LmEtp0PEAE",
+        "title": "Dec 7 2023 Check in Questions",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/ML5MUXqOuwR6T4pVCXBjA-Mtdm4HzOShHaLiB2lRik4HQGZKjWBjKTDiLaKqQNu8d6lR5yazNvk\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Dec 7 2023 Check in Questions",
+      "maxPoints": 3.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2023-12-04T00:08:10.122Z",
+    "updateTime": "2023-12-05T01:52:17.554Z",
+    "scheduledTime": "2023-12-05T01:50:00Z",
+    "publicationTime": "2023-12-05T01:52:17.313Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 5 - Electromagnetism"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSei08FmMAseyM1aOBRWEeVx7cth06xNWnnqxnU7qXewB0udJg/viewform?hr_submission\u003dChkItZqxoZkBEhAIoMSep98SEgcI_LmEtp0PEAE",
+        "title": "Dec 5 2023 Check in Questions",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/fos9QODA0E9P9WCjC0MwYdQ16Rq9Gx5s2GwsPH9TV_zFPJvrwoly95CXsCY3D_N9Q8ZLTCwOpoo\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Dec 5 2023 Check in Questions",
+      "maxPoints": 3.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "assignedGrade": 1.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSei08FmMAseyM1aOBRWEeVx7cth06xNWnnqxnU7qXewB0udJg/viewscore?viewscore\u003dAE0zAgA69ZZB7061GnDHEWBGusA5N8dlrumTSTPvTOSd2Rf_XEE8DvL4PZkCCTTFLg",
+              "title": "Dec 5 2023 Check in Questions",
+              "thumbnailUrl": "https://lh6.googleusercontent.com/fos9QODA0E9P9WCjC0MwYdQ16Rq9Gx5s2GwsPH9TV_zFPJvrwoly95CXsCY3D_N9Q8ZLTCwOpoo\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2023-11-30T04:01:03.968Z",
+    "updateTime": "2023-12-01T03:46:08.396Z",
+    "scheduledTime": "2023-12-01T03:45:00Z",
+    "publicationTime": "2023-12-01T03:46:08.260Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 5 - Electromagnetism"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfmhQoAlVYW50fJH5OrdvzscJD7HBQ-2lzODE0xJs_wrjrpRQ/viewform?hr_submission\u003dChkItZqxoZkBEhAIzbX86NwSEgcI_LmEtp0PEAE",
+        "title": "Dec 1 2023 Check in Questions",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/RBbK-iCgrArrf6uMv1XM6nIrQ7FKBkKeYDO24ClQ3FptDodnav14ywH2LOJLzb1pCao8M2YppwQ\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Dec 1 2023 Check in Questions",
+      "maxPoints": 3.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "assignedGrade": 2.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfmhQoAlVYW50fJH5OrdvzscJD7HBQ-2lzODE0xJs_wrjrpRQ/viewscore?viewscore\u003dAE0zAgAu_5D8wN6K4qwwMHCl1wIs-R0Lxd2rwKpm0cT9A6-ptp8yZlI1sxT25Nob_w",
+              "title": "Dec 1 2023 Check in Questions",
+              "thumbnailUrl": "https://lh4.googleusercontent.com/RBbK-iCgrArrf6uMv1XM6nIrQ7FKBkKeYDO24ClQ3FptDodnav14ywH2LOJLzb1pCao8M2YppwQ\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2023-11-28T03:20:13.786Z",
+    "updateTime": "2023-11-29T05:21:42.199Z",
+    "scheduledTime": "2023-11-29T05:20:00Z",
+    "publicationTime": "2023-11-29T05:21:41.962Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 5 - Electromagnetism"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf5uFHVOISgqZAl-419I2hNzV15zMeLESHLyrhQviYLtzQz6A/viewform?hr_submission\u003dChkItZqxoZkBEhAIy7qG39oSEgcI_LmEtp0PEAE",
+        "title": "Nov 29 2023 Check in Questions",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/evtDFjyErSafIOAN6NNB8C58c7r5O1fsPj8lXVwilU9gfpIwj4Yd8fVoTA36dVqs_dGQQ8-3MBc\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Nov 29 2023 Check in Questions",
+      "maxPoints": 3.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2023-11-23T08:35:14.497Z",
+    "updateTime": "2023-11-27T06:47:33.870Z",
+    "scheduledTime": "2023-11-27T06:45:00Z",
+    "publicationTime": "2023-11-27T06:47:33.740Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 5 - Electromagnetism"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScixR9Pe4oTc1KF64A4K5HboV4FmssO_1L4wpUEvq5X_6xl2A/viewform?hr_submission\u003dChkItZqxoZkBEhAIkuyairkPEgcI_LmEtp0PEAE",
+        "title": "Nov 27 2023 Check in Questions",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/ZknyRwGmdjcsNLexF3UkVok_9p_-mDGJdW3DRTfow7Bni2l2Vmj2HVC5WFMdCyeVQL51jQNU0tg\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Nov 27 2023 Check in Questions",
+      "maxPoints": 3.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "assignedGrade": 1.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScixR9Pe4oTc1KF64A4K5HboV4FmssO_1L4wpUEvq5X_6xl2A/viewscore?viewscore\u003dAE0zAgB_glRq6e9kA2NIM8IUeYv4dzOUuLXQhnztpwnq2z_9SMQEwWkdT5-AevXsHA",
+              "title": "Nov 27 2023 Check in Questions",
+              "thumbnailUrl": "https://lh5.googleusercontent.com/ZknyRwGmdjcsNLexF3UkVok_9p_-mDGJdW3DRTfow7Bni2l2Vmj2HVC5WFMdCyeVQL51jQNU0tg\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2023-11-23T00:02:05.429Z",
+    "updateTime": "2023-11-23T05:20:47.742Z",
+    "scheduledTime": "2023-11-23T05:20:00Z",
+    "publicationTime": "2023-11-23T05:20:47.512Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 5 - Electromagnetism"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSchLxBBNjdEBFKYQQHZVFfmeAhVNJrjw8JR9J1i2F-78bGjwA/viewform?hr_submission\u003dChkItZqxoZkBEhAI7sD5otgSEgcI_LmEtp0PEAE",
+        "title": "Nov 23 2023 Check in Questions",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/aAmXgA8qkceZXAfV_lxxM3pGs5C_lV3FSujBC9u0nyTK4GfX4QIacazO3s5-oz8boQKFvmAo9M0\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Nov 23 2023 Check in Questions",
+      "maxPoints": 3.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "assignedGrade": 1.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSchLxBBNjdEBFKYQQHZVFfmeAhVNJrjw8JR9J1i2F-78bGjwA/viewscore?viewscore\u003dAE0zAgCVwZoczraPEJMY1VIl0NPPJX0Hu3Srz2PT7zNrQ8XhjoQ8K2RDu1DVr4cSGQ",
+              "title": "Nov 23 2023 Check in Questions",
+              "thumbnailUrl": "https://lh6.googleusercontent.com/aAmXgA8qkceZXAfV_lxxM3pGs5C_lV3FSujBC9u0nyTK4GfX4QIacazO3s5-oz8boQKFvmAo9M0\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2023-11-10T07:31:00.591Z",
+    "updateTime": "2023-11-13T05:24:44.210Z",
+    "scheduledTime": "2023-11-13T05:20:00Z",
+    "publicationTime": "2023-11-13T05:24:43.979Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 4 - Circuits"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfJNIEioY7KOYYC-CWlJEPwVz5XHIYnSWCgoIYiojdqVvFWdA/viewform?hr_submission\u003dChkItZqxoZkBEhAIhOfso84SEgcI_LmEtp0PEAE",
+        "title": "Nov 13 2023 Check in Questions",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/wGdqD67YJ9i0iI4be20GslQ6S6NrcGZzT066ewGs5YaUAN_AToFItgbNHhIxOW_kF9nQrIJw26E\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Nov 13 2023 Check in Questions",
+      "maxPoints": 3.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "assignedGrade": 2.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfJNIEioY7KOYYC-CWlJEPwVz5XHIYnSWCgoIYiojdqVvFWdA/viewscore?viewscore\u003dAE0zAgAhvRSipBAaEPOsoLmd8bFBsOhge9hfjptqXiqI8276wMD5ukM9PjmsywEL5Q",
+              "title": "Nov 13 2023 Check in Questions",
+              "thumbnailUrl": "https://lh6.googleusercontent.com/wGdqD67YJ9i0iI4be20GslQ6S6NrcGZzT066ewGs5YaUAN_AToFItgbNHhIxOW_kF9nQrIJw26E\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2023-11-08T07:44:06.254Z",
+    "updateTime": "2023-11-09T06:45:34.851Z",
+    "scheduledTime": "2023-11-09T06:45:00Z",
+    "publicationTime": "2023-11-09T06:45:34.601Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 4 - Circuits"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSd1xS_AvLL16t2Sxcly6dHhrE2J4hDGPvBcxps42XBn2Qd9VA/viewform?hr_submission\u003dChkItZqxoZkBEhAIv4-UpsgSEgcI_LmEtp0PEAE",
+        "title": "Nov 9 Check-in Questions",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/Ja5kcYW_5WO1LnGOlk8_Eo8iYnmbJFdbQGfwrNTImlLeBb6NulbQEi6CNtxDYMH7nvpALAp3sx0\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Nov 9 Check-in Questions",
+      "maxPoints": 3.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSd1xS_AvLL16t2Sxcly6dHhrE2J4hDGPvBcxps42XBn2Qd9VA/viewscore?viewscore\u003dAE0zAgDQyabI2F7K6WAxQiK7EPiBp_efR-DjBXniAs8Kw83eN4D2guMlRK9AGCoxPg",
+              "title": "Nov 9 Check-in Questions",
+              "thumbnailUrl": "https://lh5.googleusercontent.com/Ja5kcYW_5WO1LnGOlk8_Eo8iYnmbJFdbQGfwrNTImlLeBb6NulbQEi6CNtxDYMH7nvpALAp3sx0\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2023-11-07T09:07:13.517Z",
+    "updateTime": "2023-11-08T05:28:30Z",
+    "publicationTime": "2023-11-08T05:28:29.766Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 4 - Circuits"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScOwTMzNSOOo2wSrc-zSVywEPVekgKRZykKtQYVeg43PELwGA/viewform?hr_submission\u003dChkItZqxoZkBEhAIoMu2iscSEgcI_LmEtp0PEAE",
+        "title": "Nov 8 2023 Check in Questions",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/ilSx0xdF6vxPmCpH_3K0NL9dMvnGBl2D1MHVpi70qYPJoXPkmEVinBqJNg9pfZ-_fm6KkfP9ISQ\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Nov 8 2023 Check in Questions",
+      "maxPoints": 3.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScOwTMzNSOOo2wSrc-zSVywEPVekgKRZykKtQYVeg43PELwGA/viewscore?viewscore\u003dAE0zAgAqzleXBVmDL5MRyRCdIXInUCEKELBRz6IJswBrTFzgdpUksA3fP-sW0bJpgA",
+              "title": "Nov 8 2023 Check in Questions",
+              "thumbnailUrl": "https://lh4.googleusercontent.com/ilSx0xdF6vxPmCpH_3K0NL9dMvnGBl2D1MHVpi70qYPJoXPkmEVinBqJNg9pfZ-_fm6KkfP9ISQ\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2023-11-06T00:38:06.131Z",
+    "updateTime": "2023-11-07T00:27:49.416Z",
+    "scheduledTime": "2023-11-07T00:25:00Z",
+    "publicationTime": "2023-11-07T00:27:49.168Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 4 - Circuits"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdi3DZnFi2JzaodY6ZIrOVfNxVBF7O5l0JndqpQY3XoB15yIQ/viewform?hr_submission\u003dChkItZqxoZkBEhAIn7Or3MUSEgcI_LmEtp0PEAE",
+        "title": "Nov 7 2023 Check in Questions",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/SU7zt64gPNNPkSH8BdiwwdK_5DuERlP6QdejHY8UBfo8-p21hiA2ExRFe4ngaf_LBwFWSI8o0Pc\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Nov 7 2023 Check in Questions",
+      "maxPoints": 3.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2023-11-03T03:08:01.936Z",
+    "updateTime": "2023-11-07T08:47:19.307Z",
+    "publicationTime": "2023-11-03T03:08:01.086Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 4 - Circuits"
+    }],
+    "materials": [{
+      "link": {
+        "url": "https://www.albert.io/assignment/60dc6006-bdb7-4041-8080-df1e5b58f919",
+        "title": "Albert | Learn by doing | Grades 5-12 reading, writing, math, science, and test prep",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://www.albert.io/assignment/60dc6006-bdb7-4041-8080-df1e5b58f919"
+      }
+    }],
+    "courseWork": {
+      "title": "AP Circuits Albert 1",
+      "dueTime": "2023-11-07T00:30:00Z",
+      "maxPoints": 11.0,
+      "gradeCategory": {
+        "name": "Albert.io"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2023-11-02T02:31:05.947Z",
+    "updateTime": "2023-11-03T02:25:56.595Z",
+    "scheduledTime": "2023-11-03T02:25:00Z",
+    "publicationTime": "2023-11-03T02:25:56.322Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 4 - Circuits"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScoYY4FjbD832GgiI6i6Gyjjcs7rTcjnWxX6UEnz5v5mNl7rg/viewform?hr_submission\u003dChkItZqxoZkBEhAIqrS9l8MSEgcI_LmEtp0PEAE",
+        "title": "Nov 3 2023 Check in Questions",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/LFY7Vz2zqHMuVK-xuONTwnNfioMpH70x4VKRPHkR9ois-AEtRaIbGF1N9XK4qujbTf13hWg6igE\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Nov 3 2023 Check in Questions",
+      "maxPoints": 3.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScoYY4FjbD832GgiI6i6Gyjjcs7rTcjnWxX6UEnz5v5mNl7rg/viewscore?viewscore\u003dAE0zAgB1aVa89d2NBKP24wU-_g_k93kwUiZDEG_DoExrDEEEijLX-a2n7au-wxSrUQ",
+              "title": "Nov 3 2023 Check in Questions",
+              "thumbnailUrl": "https://lh5.googleusercontent.com/LFY7Vz2zqHMuVK-xuONTwnNfioMpH70x4VKRPHkR9ois-AEtRaIbGF1N9XK4qujbTf13hWg6igE\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2023-10-31T02:10:13.631Z",
+    "updateTime": "2023-11-01T03:16:18.703Z",
+    "scheduledTime": "2023-11-01T03:15:00Z",
+    "publicationTime": "2023-11-01T03:16:18.579Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 4 - Circuits"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSefDhIPq5e2LF_a313EzaiFtM79JY4tuZhkyJoeekpE-SR02g/viewform?hr_submission\u003dChkItZqxoZkBEhAI9IaqgcASEgcI_LmEtp0PEAE",
+        "title": "Nov 1 2023 Check in Questions",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/Q2BbAeqTOJq5vcOufIlACTVXNFy0ZFaG-mPScVN1wHm5QMT3JAahqxKFsVEmbWVlFAtDdVhRkG0\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Nov 1 2023 Check in Questions",
+      "maxPoints": 3.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSefDhIPq5e2LF_a313EzaiFtM79JY4tuZhkyJoeekpE-SR02g/viewscore?viewscore\u003dAE0zAgBBNqSRFzTuWN96yKoKWbgRf_kXxTl4UEodhG2U_FdEjIo5SZwalc-CuI38Mg",
+              "title": "Nov 1 2023 Check in Questions",
+              "thumbnailUrl": "https://lh4.googleusercontent.com/Q2BbAeqTOJq5vcOufIlACTVXNFy0ZFaG-mPScVN1wHm5QMT3JAahqxKFsVEmbWVlFAtDdVhRkG0\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2023-10-20T07:13:49.565Z",
+    "updateTime": "2023-10-30T05:47:15.543Z",
+    "scheduledTime": "2023-10-30T05:45:00Z",
+    "publicationTime": "2023-10-30T05:47:15.393Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 4 - Circuits"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSd_VUVT8K7TACgIfUqcJ6eOHGFhkdAKhedMjA0lCq_5CyC6tQ/viewform?hr_submission\u003dChkItZqxoZkBEhAI7MyjorQSEgcI_LmEtp0PEAE",
+        "title": "Oct 30 2023 Check in Questions",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/VipyODDYx9sOBTG7UUrxF57SVlidNVRazJKzlHhHEnCFHUT1UaMgFZO617Sl6BCz8H0FQCKl5Tc\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Oct 30 2023 Check in Questions",
+      "maxPoints": 3.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2023-10-17T08:54:27.531Z",
+    "updateTime": "2023-10-18T06:48:35.903Z",
+    "scheduledTime": "2023-10-18T06:45:00Z",
+    "publicationTime": "2023-10-18T06:48:35.658Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 4 - Circuits"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdZcWs3KfIvMsEECjxVf07ga8KHHwFpr8DGWS7LcP0jUTWppg/viewform?hr_submission\u003dChkItZqxoZkBEhAIj43yp7ESEgcI_LmEtp0PEAE",
+        "title": "Oct 18 2023 Check-in Questions",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/TGptafx487sF33q_X23W5aJ2RBN52B27UHsa2xU8_vmekEOmcuPEqY63vyoLAwA0fUodBjkQCMY\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Oct 18 2023 Check-in Questions",
+      "maxPoints": 3.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdZcWs3KfIvMsEECjxVf07ga8KHHwFpr8DGWS7LcP0jUTWppg/viewscore?viewscore\u003dAE0zAgBOES9gOCj88Y0g_tScd5AkTryktROuDali_r3voIH000lWLnfwG0vbjt_a1A",
+              "title": "Oct 18 2023 Check-in Questions",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/TGptafx487sF33q_X23W5aJ2RBN52B27UHsa2xU8_vmekEOmcuPEqY63vyoLAwA0fUodBjkQCMY\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2023-10-17T00:00:48.684Z",
+    "updateTime": "2023-10-17T05:20:44.967Z",
+    "scheduledTime": "2023-10-17T05:20:00Z",
+    "publicationTime": "2023-10-17T05:20:44.723Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 4 - Circuits"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdwEVtWF18clQ8QN_Rbh2kE64iaal0_WK5ZiA0GiLbVEp-Teg/viewform?hr_submission\u003dChkItZqxoZkBEhAIqaXVibESEgcI_LmEtp0PEAE",
+        "title": "Oct 17 2023 Check in Questions",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/Iq0uxeathXfH0vzpmuyd-mm_fz9glyo-LpLCxyaB6L2AMBV9ZxM058cCvoE_QqH-r9dFtJ1AtJY\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Oct 17 2023 Check in Questions",
+      "maxPoints": 3.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2023-10-03T03:40:37.801Z",
+    "updateTime": "2023-10-04T05:57:20.897Z",
+    "scheduledTime": "2023-10-04T05:45:00Z",
+    "publicationTime": "2023-10-04T05:45:02.271Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 3 - Electrostatics"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfAXgDcKQmqUIHhrxFJfUg_FryfXcZ26XLPbnxEpZOKo3BG5Q/viewform?hr_submission\u003dChkItZqxoZkBEhAIz6yj-qASEgcI_LmEtp0PEAE",
+        "title": "Oct 4 Check in Questions",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/_VnTSjmnVQnvHwFSxEEuJM-7AlCFmBO4NcJsQe_3owPopHYfdZR0zHysknJJwoWoEo9_A7mMcpk\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Oct 4 Check in Questions",
+      "maxPoints": 6.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfAXgDcKQmqUIHhrxFJfUg_FryfXcZ26XLPbnxEpZOKo3BG5Q/viewscore?viewscore\u003dAE0zAgBTROLoTiYqL3K0j1cTwcF0Heax5zXJPXLuYYa2zkqeLByR2RBiBOY81qv2Tg",
+              "title": "Oct 4 Check in Questions",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/_VnTSjmnVQnvHwFSxEEuJM-7AlCFmBO4NcJsQe_3owPopHYfdZR0zHysknJJwoWoEo9_A7mMcpk\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2023-09-29T04:21:52.400Z",
+    "updateTime": "2023-10-02T06:47:57.630Z",
+    "scheduledTime": "2023-10-02T06:45:00Z",
+    "publicationTime": "2023-10-02T06:47:57.400Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 3 - Electrostatics"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdrudEcfNR5wJ89UzWyaSHvfJopsAiuE3hvjk7PgzkQ3fHcnw/viewform?hr_submission\u003dChkItZqxoZkBEhAIv6-etJ4SEgcI_LmEtp0PEAE",
+        "title": "Oct 2 2023 Check in Questions",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/u2rMgVITS99pAqOg3KWPqkOnXRknYdyuxchO0Xhpr3aFugug8xBmK3HGPXKKtDzluAuzh0baESY\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Oct 2 2023 Check in Questions",
+      "maxPoints": 7.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "assignedGrade": 7.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdrudEcfNR5wJ89UzWyaSHvfJopsAiuE3hvjk7PgzkQ3fHcnw/viewscore?viewscore\u003dAE0zAgC1nCf9MixV1_90tGMxeNCb4l2Fv8TFJ-BG0Aeso7KrmouKuof4JhJ3p6vPqw",
+              "title": "Oct 2 2023 Check in Questions",
+              "thumbnailUrl": "https://lh6.googleusercontent.com/u2rMgVITS99pAqOg3KWPqkOnXRknYdyuxchO0Xhpr3aFugug8xBmK3HGPXKKtDzluAuzh0baESY\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2023-09-27T08:36:59.356Z",
+    "updateTime": "2023-09-29T05:49:58.844Z",
+    "scheduledTime": "2023-09-29T05:45:00Z",
+    "publicationTime": "2023-09-29T05:49:58.698Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 3 - Electrostatics"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSc6q7brdyQgdpgto_eY5_M27SosAlZgY7Pp1IFo1jLpj3MaOQ/viewform?hr_submission\u003dChkItZqxoZkBEhAIwPPV77MPEgcI_LmEtp0PEAE",
+        "title": "Sep 29 2023 Check in Questions",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/62YKGqMSWvQDxYELI8a11wictW9tVN5Eh9NqlGiALGJduMsQ2HHCuprsa6YeGmNSZYU0iZpU0Bc\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Sep 29 2023 Check in Questions",
+      "maxPoints": 3.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSc6q7brdyQgdpgto_eY5_M27SosAlZgY7Pp1IFo1jLpj3MaOQ/viewscore?viewscore\u003dAE0zAgB3wUW5wh47J4I9L-awW4OJ__brDTIuWxWjKJxfNG2WlL6iQcvW59az-x_NOw",
+              "title": "Sep 29 2023 Check in Questions",
+              "thumbnailUrl": "https://lh4.googleusercontent.com/62YKGqMSWvQDxYELI8a11wictW9tVN5Eh9NqlGiALGJduMsQ2HHCuprsa6YeGmNSZYU0iZpU0Bc\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2023-09-25T03:40:59.626Z",
+    "updateTime": "2023-09-27T00:27:23.822Z",
+    "scheduledTime": "2023-09-27T00:25:00Z",
+    "publicationTime": "2023-09-27T00:27:23.588Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 3 - Electrostatics"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfinh6bjJNj65Nc-NuJJWHAWrX2Eqf14L_OcItfJmTa0MgP3g/viewform?hr_submission\u003dChkItZqxoZkBEhAI-vKpnpoSEgcI_LmEtp0PEAE",
+        "title": "Sep 27 2023 Check in Questions",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/yv3rnR4B1XfaQq9hPdONkXuaQKqhp1hdE1dfh5gpcxJQcbInhjILR_MjKBYbXvPolbUj_cCv3Qw\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Sep 27 2023 Check in Questions",
+      "maxPoints": 3.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "assignedGrade": 2.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfinh6bjJNj65Nc-NuJJWHAWrX2Eqf14L_OcItfJmTa0MgP3g/viewscore?viewscore\u003dAE0zAgB_sR85c5VP2t1tTk2SH1GsbMVknn2LN_774boU2UpUF2JU7-iwP_8dnYXf6w",
+              "title": "Sep 27 2023 Check in Questions",
+              "thumbnailUrl": "https://lh6.googleusercontent.com/yv3rnR4B1XfaQq9hPdONkXuaQKqhp1hdE1dfh5gpcxJQcbInhjILR_MjKBYbXvPolbUj_cCv3Qw\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2023-09-22T02:32:31.939Z",
+    "updateTime": "2023-09-25T01:51:13.778Z",
+    "scheduledTime": "2023-09-25T01:50:00Z",
+    "publicationTime": "2023-09-25T01:51:13.544Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 3 - Electrostatics"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfynAauzvqGSuqjG9_kNYf9tnorF49CHOZvDCzGmo8_YS637w/viewform?hr_submission\u003dChkItZqxoZkBEhAI38Gj3JgSEgcI_LmEtp0PEAE",
+        "title": "Sep 25 2023 Check in Questions",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/03hzHhkGUWXkNLF7ggkZVzyGb7CgveAslMtvz0HRQm6nR6b4tCHa5uoa_8DSomq-1i-MvexVqVo\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Sep 25 2023 Check in Questions",
+      "maxPoints": 3.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfynAauzvqGSuqjG9_kNYf9tnorF49CHOZvDCzGmo8_YS637w/viewscore?viewscore\u003dAE0zAgCYtY1K5z7q6_jeiRNPUbc4PBFpNKzXRzQ4DRlp476TLShAdpBNdbYa1eq7BQ",
+              "title": "Sep 25 2023 Check in Questions",
+              "thumbnailUrl": "https://lh6.googleusercontent.com/03hzHhkGUWXkNLF7ggkZVzyGb7CgveAslMtvz0HRQm6nR6b4tCHa5uoa_8DSomq-1i-MvexVqVo\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2023-09-20T01:11:04.635Z",
+    "updateTime": "2023-09-21T03:18:46.572Z",
+    "scheduledTime": "2023-09-21T03:15:00Z",
+    "publicationTime": "2023-09-21T03:18:46.428Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 3 - Electrostatics"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSedvfqGw6qG0DHsV0oW9uHLy0Fa2cz06C_Q0IZ1WV3yeU8uUA/viewform?hr_submission\u003dChkItZqxoZkBEhAIzKfJ25YSEgcI_LmEtp0PEAE",
+        "title": "Sep 21 2023 Check-in Questions",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/jHCUK0MJbwMhNsveweNuLl3cPxiz5l0ZeVOnLjwzMW6WXBhgD8bz-tf3wyvXfS66hD2XBwZdyU4\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Sep 21 2023 Check-in Questions",
+      "maxPoints": 3.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "assignedGrade": 2.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSedvfqGw6qG0DHsV0oW9uHLy0Fa2cz06C_Q0IZ1WV3yeU8uUA/viewscore?viewscore\u003dAE0zAgC8bWVrXQsM61xXr9MTF0se78zl7_pE44rtX4FpQ9H0KxAaQ4dqROp6L5rUTw",
+              "title": "Sep 21 2023 Check-in Questions",
+              "thumbnailUrl": "https://lh6.googleusercontent.com/jHCUK0MJbwMhNsveweNuLl3cPxiz5l0ZeVOnLjwzMW6WXBhgD8bz-tf3wyvXfS66hD2XBwZdyU4\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2023-09-20T01:44:59.726Z",
+    "updateTime": "2023-09-20T01:45:58.116Z",
+    "publicationTime": "2023-09-20T01:44:59.097Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 3 - Electrostatics"
+    }],
+    "materials": [{
+      "link": {
+        "url": "https://www.albert.io/assignment/9bbccdb0-d410-4fa2-9f7b-5d3a248b106b",
+        "title": "Albert | Learn by doing | Grades 5-12 reading, writing, math, science, and test prep",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://www.albert.io/assignment/9bbccdb0-d410-4fa2-9f7b-5d3a248b106b"
+      }
+    }],
+    "courseWork": {
+      "title": "Electrostatics Albert 1",
+      "dueTime": "2023-09-25T01:55:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2023-09-15T04:08:24.344Z",
+    "updateTime": "2023-09-19T05:20:12.065Z",
+    "scheduledTime": "2023-09-19T05:20:00Z",
+    "publicationTime": "2023-09-19T05:20:11.827Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 3 - Electrostatics"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdKBNIdzBViCSXI-W2_nDtQucI8WP9vDqVIBN73Cjsxgh89Cg/viewform?hr_submission\u003dChkItZqxoZkBEhAIqZv2-ZISEgcI_LmEtp0PEAE",
+        "title": "Sep 19 2023 Check in Questions",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/Rm_BQ7-RtrdcoIwYQw2jQufYDdJt5Y5GwxwjV2oayg06uHkSN51sriUSCzZyJ_t3-zlTC68ZGTg\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Sep 19 2023 Check in Questions",
+      "maxPoints": 3.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdKBNIdzBViCSXI-W2_nDtQucI8WP9vDqVIBN73Cjsxgh89Cg/viewscore?viewscore\u003dAE0zAgDOgAIyC99_P2IaV9hUI5enDzmmDI-dVMtemDKyBL36EYZ5BRJQ2WN4TtAbCg",
+              "title": "Sep 19 2023 Check in Questions",
+              "thumbnailUrl": "https://lh6.googleusercontent.com/Rm_BQ7-RtrdcoIwYQw2jQufYDdJt5Y5GwxwjV2oayg06uHkSN51sriUSCzZyJ_t3-zlTC68ZGTg\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2023-09-13T07:56:02.024Z",
+    "updateTime": "2023-09-14T06:47:49.868Z",
+    "scheduledTime": "2023-09-14T06:45:00Z",
+    "publicationTime": "2023-09-14T06:47:49.732Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 3 - Electrostatics"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSc796I709tfhOW7NO3PgTbtitqMENjx8pkxhqVRFOoGLPHDaQ/viewform?hr_submission\u003dChkItZqxoZkBEhAI8MDk0pASEgcI_LmEtp0PEAE",
+        "title": "Sep 14 2023 Check in Questions AP",
+        "thumbnailUrl": "https://lh4.googleusercontent.com/c-VCUvs7WEHGmq4n829DztU0pTV5nNvd3d61mEc4HbowO5Cgo8fjoENcJtGeEyVgLnkJ4qiEjek\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Sep 14 Check in Questions",
+      "maxPoints": 3.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSc796I709tfhOW7NO3PgTbtitqMENjx8pkxhqVRFOoGLPHDaQ/viewscore?viewscore\u003dAE0zAgA6ELnXB0_5yQtzmAm_RwkJFubnPAHW3Abwfu4aftqoP0HoaYSk7TjR33YaEw",
+              "title": "Sep 14 2023 Check in Questions AP",
+              "thumbnailUrl": "https://lh4.googleusercontent.com/c-VCUvs7WEHGmq4n829DztU0pTV5nNvd3d61mEc4HbowO5Cgo8fjoENcJtGeEyVgLnkJ4qiEjek\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2023-09-05T00:02:46.702Z",
+    "updateTime": "2023-09-06T03:15:46.456Z",
+    "scheduledTime": "2023-09-06T03:15:00Z",
+    "publicationTime": "2023-09-06T03:15:46.318Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 2 - Fluid"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeUOjSIRnkbLc7L9IiVqc3bgy9YxJCTMUmYfxA1IErXMsf-oA/viewform?hr_submission\u003dChkItZqxoZkBEhAIvb-1wokSEgcI_LmEtp0PEAE",
+        "title": "Sep 5 2023 Check in Questions",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/YqyP7lYtDNQA3gOaEJjDm4RHKPU4Z6Dp6YpuQeo-SYFAVRA3M8xWaomHFSC96dAtK1hcIHj9rnI\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Sep 6 2023 Check in Questions",
+      "maxPoints": 3.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "assignedGrade": 2.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeUOjSIRnkbLc7L9IiVqc3bgy9YxJCTMUmYfxA1IErXMsf-oA/viewscore?viewscore\u003dAE0zAgBb6N5Hm3NGfzGQCMowGWxc97msYQOdzwJnPWdXJNux6bvjwtGRy1XL68zJ5A",
+              "title": "Sep 5 2023 Check in Questions",
+              "thumbnailUrl": "https://lh5.googleusercontent.com/YqyP7lYtDNQA3gOaEJjDm4RHKPU4Z6Dp6YpuQeo-SYFAVRA3M8xWaomHFSC96dAtK1hcIHj9rnI\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2023-09-05T00:00:30.084Z",
+    "updateTime": "2023-09-05T00:01:19.876Z",
+    "publicationTime": "2023-09-05T00:00:29.276Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 2 - Fluid"
+    }],
+    "materials": [{
+      "link": {
+        "url": "https://www.albert.io/assignment/d6364596-0704-49a1-b01c-25d32f76a243",
+        "title": "Albert | Learn by doing | Grades 5-12 reading, writing, math, science, and test prep",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://www.albert.io/assignment/d6364596-0704-49a1-b01c-25d32f76a243"
+      }
+    }],
+    "courseWork": {
+      "title": "Fluid Dynamics Albert.io",
+      "dueTime": "2023-09-08T02:30:00Z",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2023-09-01T03:47:41.992Z",
+    "updateTime": "2023-09-04T05:20:23.082Z",
+    "scheduledTime": "2023-09-04T05:20:00Z",
+    "publicationTime": "2023-09-04T05:20:22.945Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 2 - Fluid"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSe-szbqgCAzL9rlKDcDL-YwHy1lGOeU0CamY8ZCb5H-gFWQmw/viewform?hr_submission\u003dChkItZqxoZkBEhAInI7C9IcSEgcI_LmEtp0PEAE",
+        "title": "Sep 4 Check in Questions",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/RHduvAGFDpiQmJagKDwqBx3le3spULJbZiEDcADS1h239MBtcryb52l-k9b-OonB7LJLKAbdFwg\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Sep 4 Check in Questions",
+      "maxPoints": 4.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSe-szbqgCAzL9rlKDcDL-YwHy1lGOeU0CamY8ZCb5H-gFWQmw/viewscore?viewscore\u003dAE0zAgAZN_Fs1RatAd3Z6hPzwVpA6G00GEIGuQmD2xUagex7pILrH0xqf8wa-c3neQ",
+              "title": "Sep 4 Check in Questions",
+              "thumbnailUrl": "https://lh6.googleusercontent.com/RHduvAGFDpiQmJagKDwqBx3le3spULJbZiEDcADS1h239MBtcryb52l-k9b-OonB7LJLKAbdFwg\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2023-08-30T02:51:52.938Z",
+    "updateTime": "2023-08-31T06:56:45.849Z",
+    "scheduledTime": "2023-08-31T06:45:00Z",
+    "publicationTime": "2023-08-31T06:48:52.445Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 2 - Fluid"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfk926wYpjhHCx3t_8i_YCYFhF7l8O3aNCHiZ_vjL5hUYs9fA/viewform?hr_submission\u003dChkItZqxoZkBEhAIwfmTpYYSEgcI_LmEtp0PEAE",
+        "title": "Aug 31 2023 Check in Questions",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/Cm5pnf_xxEnQC4i9oddb3g7azYsS6QOLKCPolOPiHiPZV545kCjFq-hUNzhpCLPOj3DWSVBHg3k\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Aug 31 2023 Check in Questions",
+      "maxPoints": 3.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2023-08-28T04:09:15.184Z",
+    "updateTime": "2023-08-29T00:27:46.385Z",
+    "publicationTime": "2023-08-29T00:27:46.170Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 1 - Thermal"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfV1l79ZZpH_-uCgy9jVJhBuuKXL9GYth7a6ln2MUp68Cd_dg/viewform?hr_submission\u003dChkItZqxoZkBEhAIwbay2YQSEgcI_LmEtp0PEAE",
+        "title": "Aug 29 2023 Check in Questions",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/5cJrPcyd2q7yaIILfdybvVp4tqwW5SnSUbdrt8yDi1dNZmZNGOtdEG8-0UWE2vqaoTqtkqv5lCA\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Aug 29 2023 Check in Questions",
+      "maxPoints": 6.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2023-08-24T00:04:16.199Z",
+    "updateTime": "2023-08-25T02:26:03.842Z",
+    "scheduledTime": "2023-08-25T02:25:00Z",
+    "publicationTime": "2023-08-25T02:26:03.697Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 1 - Thermal"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf1RMzvWtJ0rNtDwsGePZgUwHPP7oTKhGNT-L_QJl-u9sUR2g/viewform?hr_submission\u003dChkItZqxoZkBEhAIjtSV-4ISEgcI_LmEtp0PEAE",
+        "title": "Aug 25 2023 Check-in Questions",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/w2oaCpE23cEZEzFNp3Xzt1HAsypGRlk-JCkjOIKnhCg74d8UjHV1HoGIJP3MnSB0sqouNg8v3bs\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Aug 25 2023 Check-in Questions",
+      "maxPoints": 3.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf1RMzvWtJ0rNtDwsGePZgUwHPP7oTKhGNT-L_QJl-u9sUR2g/viewscore?viewscore\u003dAE0zAgDVukNGCH6eFvUYU-T8wm-DmWbQKYilYKL1yahiGEzvDJTI0E22qEpXYN4J9Q",
+              "title": "Aug 25 2023 Check-in Questions",
+              "thumbnailUrl": "https://lh6.googleusercontent.com/w2oaCpE23cEZEzFNp3Xzt1HAsypGRlk-JCkjOIKnhCg74d8UjHV1HoGIJP3MnSB0sqouNg8v3bs\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2023-08-24T03:02:20.474Z",
+    "updateTime": "2023-08-24T03:03:26.972Z",
+    "publicationTime": "2023-08-24T03:02:19.642Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 1 - Thermal"
+    }],
+    "materials": [{
+      "link": {
+        "url": "https://www.albert.io/assignment/9ebe1d69-e43b-4323-a079-e8aab9e774a8",
+        "title": "Albert | Learn by doing | Grades 5-12 reading, writing, math, science, and test prep",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://www.albert.io/assignment/9ebe1d69-e43b-4323-a079-e8aab9e774a8"
+      }
+    }],
+    "courseWork": {
+      "title": "AP Thermal Albert.io",
+      "dueTime": "2023-08-29T00:30:00Z",
+      "maxPoints": 20.0,
+      "gradeCategory": {
+        "name": "Albert.io"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2023-08-22T00:04:03.830Z",
+    "updateTime": "2023-08-23T03:18:17.301Z",
+    "scheduledTime": "2023-08-23T03:15:00Z",
+    "publicationTime": "2023-08-23T03:18:17.060Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 1 - Thermal"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSe7YWakMBaWnTru77MUnSbW8JckKs20xsvrs6VvS8AN2pGuig/viewform?hr_submission\u003dChkItZqxoZkBEhAIyu2Iw54PEgcI_LmEtp0PEAE",
+        "title": "Aug 23 2023 Check-in Questions",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/I9DrCBLsr1HRJIzC-zphtT_yoAL-Hmgrl_NSFzoJjmEXUmgSaak3FJPTkCdBr64oz6_lNMSkq6k\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Aug 23 2023 Check-in Questions",
+      "maxPoints": 5.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "assignedGrade": 5.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSe7YWakMBaWnTru77MUnSbW8JckKs20xsvrs6VvS8AN2pGuig/viewscore?viewscore\u003dAE0zAgC5v608Dip1OY_b6-_cX6DscRu_2c4ytD_ORt_5cpkNWEqSpjj8E0BEUWn2qA",
+              "title": "Aug 23 2023 Check-in Questions",
+              "thumbnailUrl": "https://lh6.googleusercontent.com/I9DrCBLsr1HRJIzC-zphtT_yoAL-Hmgrl_NSFzoJjmEXUmgSaak3FJPTkCdBr64oz6_lNMSkq6k\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2023-08-18T00:28:29.386Z",
+    "updateTime": "2023-08-21T05:22:05.649Z",
+    "scheduledTime": "2023-08-21T05:20:00Z",
+    "publicationTime": "2023-08-21T05:22:05.416Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 1 - Thermal"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScNCsZrysj6dcbBQQ3iqcken48_J2BCnc0lf8khrgelCeAGkQ/viewform?hr_submission\u003dChkItZqxoZkBEhAIwuvCm4ASEgcI_LmEtp0PEAE",
+        "title": "Aug 21 2023 Check-in Questions AP",
+        "thumbnailUrl": "https://lh5.googleusercontent.com/J_ioAyEPGnznRSvfIOaIkn_N75ZTUtSmAhRZo_3Gr3fjmFHxqfxAUFuvRMC92v1NouRruOA0pec\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "Aug 21, 2023 Check-in Questions",
+      "maxPoints": 3.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "assignedGrade": 2.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLScNCsZrysj6dcbBQQ3iqcken48_J2BCnc0lf8khrgelCeAGkQ/viewscore?viewscore\u003dAE0zAgDewXapz4bCc3ckJd8MUaOqmi5et_RmtlAdRhJs7f9-9j9krgGDofWg1Jrm8A",
+              "title": "Aug 21 2023 Check-in Questions AP",
+              "thumbnailUrl": "https://lh5.googleusercontent.com/J_ioAyEPGnznRSvfIOaIkn_N75ZTUtSmAhRZo_3Gr3fjmFHxqfxAUFuvRMC92v1NouRruOA0pec\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2023-08-15T07:19:44.292Z",
+    "updateTime": "2023-08-16T06:47:05.958Z",
+    "scheduledTime": "2023-08-16T06:45:00Z",
+    "publicationTime": "2023-08-16T06:47:05.677Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 1 - Thermal"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSc5cL7EC_O4iGUCLLnRFkmNcdJN0I3TenbblvjEm07uQCOh_A/viewform?hr_submission\u003dChkItZqxoZkBEhAIpIf64v4REgcI_LmEtp0PEAE",
+        "title": "August 16, 2023 Check-in Questions ",
+        "thumbnailUrl": "https://lh3.googleusercontent.com/kgEwGNBu6PbcjhY3M6946BoyoXlhzzEuGLLbMSTj9m_YypMzxAvGqseq1d1UBomF9ehrLNNqyI0\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "August 16, 2023 Check-in Questions",
+      "maxPoints": 4.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSc5cL7EC_O4iGUCLLnRFkmNcdJN0I3TenbblvjEm07uQCOh_A/viewscore?viewscore\u003dAE0zAgD7Ci0ABGe_mNs1-n6lajMY_wok0fT9P_mUAjtsvTdavGbAxEvnC7Vw6wapPQ",
+              "title": "August 16, 2023 Check-in Questions ",
+              "thumbnailUrl": "https://lh3.googleusercontent.com/kgEwGNBu6PbcjhY3M6946BoyoXlhzzEuGLLbMSTj9m_YypMzxAvGqseq1d1UBomF9ehrLNNqyI0\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2023-08-15T07:13:21.669Z",
+    "updateTime": "2023-08-17T07:21:18.278Z",
+    "scheduledTime": "2023-08-16T06:45:00Z",
+    "publicationTime": "2023-08-16T06:45:50.493Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 1 - Thermal"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1jUrFPKzHW4kF81BVoLB6WeyIrdj60Dod_QUlqwqFUAE",
+          "title": "[Template] Gas Laws Investigation",
+          "alternateLink": "https://docs.google.com/document/d/1cd2bCLJlefUKWraaoS-QNyYj8rs912oZ3llE9uE5Tv8/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBPdUylIJ3j50m0oMU9QQYhvymeTvlCyEIatTrHI9Q9fmKSIGSGjNjI373PmePQ3zPqV6bLX9Db2oQg4k21_Sbj0CY5DPdbvNyUPcmeSM35hanGJSqO3NTP5SBAmnbkGqg6H978\u003ds200"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1zF6w7MprWo6xzefpOlN1XAs01pNoEbq_cn-wSg-Y4qs",
+          "title": "[Template] Gas Laws Problems",
+          "alternateLink": "https://docs.google.com/document/d/1ynPRKW00Qak6wbVCPGat3xo6T4QSrfZoQOb_Ti7Hy5U/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBOpi8zqi4DJw2cOrO_ik8RHT8GRag4j1D7FzgOGNeJ6eAkBEGo1uwe_L758WmAsoBHfhg3ThLRPYOZNB1JaBtuo5dZBVOdo1jwbHV7gw_YGwyppb23EWESDygXVW3YAVMYXABQ\u003ds200"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "182C7rrYyKxSwyqkdq1ojcDAhOT6MrgKzhjB6s3RiTdA",
+          "title": "Gas Laws Problems - ANSWERS",
+          "alternateLink": "https://docs.google.com/document/d/182C7rrYyKxSwyqkdq1ojcDAhOT6MrgKzhjB6s3RiTdA/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBNlaezmxMOsCB5rru0Xrx937vZ8lPfsGsuzDQi_WtcDuLbu2QnGVItOFS5oeA0LamKqQTlP5_pg8kQUs0uX9NFWDkvoKwYyZAvoqLlYthe-x2-XdkAMXru6C-8uGecZENSdjbU\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "August 16, 2023 Gas Properties and Ideal Gas Law",
+      "description": "Notes on the Ideal Gas Law and Mole/Mass conversions https://docs.google.com/presentation/d/11rt_mitogGQMwtV2KLGqiw4nInXs5FhHOMs7_wtQaHI/view#slide\u003did.g483d7eb075_0_0\nBoyle\u0027s Law Investigation (attached)\nGas Law Problems (attached)",
+      "descriptionHtml": "\u003cdiv\u003e\u003cul\u003e\u003cli\u003eNotes on the Ideal Gas Law and Mole/Mass conversions https://docs.google.com/presentation/d/11rt_mitogGQMwtV2KLGqiw4nInXs5FhHOMs7_wtQaHI/view#slide\u003did.g483d7eb075_0_0\u003c/li\u003e\u003cli\u003eBoyle\u0026#39;s Law Investigation (attached)\u003c/li\u003e\u003cli\u003eGas Law Problems (attached)\u003c/li\u003e\u003c/ul\u003e\u003c/div\u003e",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "17ZT_MX9hDA5deKE8QbJ2HNCDUezBA7BNb0CCGR1VqvE",
+              "title": "William Tan - Gas Laws Investigation",
+              "alternateLink": "https://docs.google.com/document/d/17ZT_MX9hDA5deKE8QbJ2HNCDUezBA7BNb0CCGR1VqvE/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBO18u8KC2Dd3Z24v0335ak_w_1DNUyJrqbOFnN2tLvUTXMCzvKJpaFThzqKwzmKZ2S-6XeYlUccQxi5naXepIynP29loca1_STdAGF5bay0DEMR8J8c4FLAyZJiuIFR5D7Zjp0\u003ds200"
+            }
+          }, {
+            "driveFile": {
+              "id": "1du3DLYObR1tN-jVaf70YjGXRLCF-hYr9hmtVAzb0uU4",
+              "title": "William Tan - Gas Laws Problems",
+              "alternateLink": "https://docs.google.com/document/d/1du3DLYObR1tN-jVaf70YjGXRLCF-hYr9hmtVAzb0uU4/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBNb0bT391rV6hAptXKFMMQplay6M_HhdyKZDE8eqI2LhP1xMx4236R57m5d7w9M2evb80eWPjX9Whu2a7CA_R4btTWxuL6jMgV4krfYSkOHfpxFUYBRnvV1YDn_Xz_Dv7466dQ\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2023-08-14T04:20:20.559Z",
+    "updateTime": "2023-08-15T05:24:59.154Z",
+    "scheduledTime": "2023-08-15T05:20:00Z",
+    "publicationTime": "2023-08-15T05:24:58.914Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 1 - Thermal"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1Q_CQxY7FzsUANQHzqUVa5lQw1S8sol0aiV_kIC_2KEs",
+          "title": "[Template] Thermal Conductivity Exploration",
+          "alternateLink": "https://docs.google.com/document/d/10YfNUNTC2IKW0jUtsqtg4E6x6J2gh0uQ-SLvGghb6nY/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBP3bvhXfRxsU1NW7lbUm2KRFQV4ptW2pcOVQnhEnXeOLw2EawB5QFO3JhaA8iyH0wPYAnEtb20OgFqAXSX40lXgq7SKQRkFA8wpUd_QqltpZS7LkvNDMZ9IcF5sb5gi2AG01h4\u003ds200"
+        },
+        "shareMode": "STUDENT_COPY"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "10-3sjj5rozNF-cE_37cXBpflT_DcFYr5WOKSU5PdyH8",
+          "title": "Thermal Conductivity Problems",
+          "alternateLink": "https://docs.google.com/document/d/10-3sjj5rozNF-cE_37cXBpflT_DcFYr5WOKSU5PdyH8/edit?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBO9zH9OTnF-lzbKQ0I3vKiK3ycudHD0nEhLwHR-SiPmnAbyAVLz6AA-BlAumAf0Cxno3GD2I4wNFwREz6AK1X5Td0lwD1CKHrpmPSKpG6AH02m-x_EQZMvF78392lWP04Si3yw\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWork": {
+      "title": "August 18, 2023 - Heat and Thermal Conductivity",
+      "description": "Notes on heat (https://docs.google.com/presentation/d/11rt_mitogGQMwtV2KLGqiw4nInXs5FhHOMs7_wtQaHI/view#slide\u003did.p13)\nThermal conductivity exploration (Attached) and demonstration\nThermal Conductivity practice questions\nIntroduction to gasses (https://docs.google.com/presentation/d/11rt_mitogGQMwtV2KLGqiw4nInXs5FhHOMs7_wtQaHI/view#slide\u003did.p20)",
+      "descriptionHtml": "\u003cdiv\u003e\u003cul\u003e\u003cli\u003eNotes on heat (https://docs.google.com/presentation/d/11rt_mitogGQMwtV2KLGqiw4nInXs5FhHOMs7_wtQaHI/view#slide\u003did.p13)\u003c/li\u003e\u003cli\u003eThermal conductivity exploration (Attached) and demonstration\u003c/li\u003e\u003cli\u003eThermal Conductivity practice questions\u003c/li\u003e\u003cli\u003eIntroduction to gasses (https://docs.google.com/presentation/d/11rt_mitogGQMwtV2KLGqiw4nInXs5FhHOMs7_wtQaHI/view#slide\u003did.p20)\u003c/li\u003e\u003c/ul\u003e\u003c/div\u003e",
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "gradeCalculationOption": "GRADED",
+        "state": "TURNED_IN",
+        "assignmentSubmission": {
+          "attachments": [{
+            "driveFile": {
+              "id": "1xJG09Jyk-bm854aGvSvvjEPEv_XnGJjqgSWuWt2lA7s",
+              "title": "William Tan - Thermal Conductivity Exploration",
+              "alternateLink": "https://docs.google.com/document/d/1xJG09Jyk-bm854aGvSvvjEPEv_XnGJjqgSWuWt2lA7s/edit?usp\u003ddrive_web",
+              "thumbnailUrl": "https://lh3.google.com/drive-storage/AJQWtBPABXKOl5_VUgrebBpiEo-Lt6OBLMv9uNhZ58kz8xgK3KR53hRmvo8z8V23ykQxWIYEbfFYzRsaVSQ1S32Uyje12rUN89cycP82vbpY4YgsPNGkXVFBvQvhJKYVoaDbB6kt38w\u003ds200"
+            }
+          }]
+        }
+      }]
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Jeffrey Clark"
+      },
+      "emailAddress": "jclark@jisedu.or.id"
+    },
+    "creationTime": "2023-08-14T04:34:12.059Z",
+    "updateTime": "2023-08-15T05:21:49.025Z",
+    "scheduledTime": "2023-08-15T05:20:00Z",
+    "publicationTime": "2023-08-15T05:21:48.775Z",
+    "state": "PUBLISHED",
+    "topics": [{
+      "name": "Unit 1 - Thermal"
+    }],
+    "materials": [{
+      "form": {
+        "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeL9f7Wp72mhJ5ob9GZ04xDEmk9U2covbmtV5WyFa7LHh2z6Q/viewform?hr_submission\u003dChkItZqxoZkBEhAI8ceTnf4REgcI_LmEtp0PEAE",
+        "title": "August 15, 2023 Check-in Questions",
+        "thumbnailUrl": "https://lh6.googleusercontent.com/JOEJdDqVsdUjsrr4_snUm_Axavd1lqHt3Aj89oCvh_d-LRCqYvRTgCIuClCv8M5fZ8qAW4aJCcE\u003dw90-h90-p"
+      }
+    }],
+    "courseWork": {
+      "title": "August 15, 2023 Check-in Questions",
+      "maxPoints": 3.0,
+      "gradeCategory": {
+        "name": "Check-in Questions"
+      },
+      "workType": "ASSIGNMENT",
+      "submissions": [{
+        "student": {
+          "profile": {
+            "name": {
+              "fullName": "William Tan"
+            },
+            "emailAddress": "65700@jisedu.or.id"
+          }
+        },
+        "assignedGrade": 3.0,
+        "gradeCalculationOption": "GRADED",
+        "state": "RETURNED",
+        "assignmentSubmission": {
+          "attachments": [{
+            "form": {
+              "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeL9f7Wp72mhJ5ob9GZ04xDEmk9U2covbmtV5WyFa7LHh2z6Q/viewscore?viewscore\u003dAE0zAgCOIjpPcRZRgLVDGsYDshPbjOtuYiV10W6icXJbv5sJbjHJCoBq1HYnRxmjHQ",
+              "title": "August 15, 2023 Check-in Questions",
+              "thumbnailUrl": "https://lh6.googleusercontent.com/JOEJdDqVsdUjsrr4_snUm_Axavd1lqHt3Aj89oCvh_d-LRCqYvRTgCIuClCv8M5fZ8qAW4aJCcE\u003dw90-h90-p"
+            }
+          }]
+        }
+      }]
+    }
+  }]
+}
