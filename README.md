@@ -1,4 +1,4 @@
-#AP Physics 2 Class Overview
+# AP Physics 2 Class Overview
 
 
 | **Unit**                | **Start Date**   | **End Date**     | **Topics Covered**                                                                                  | **Number of Classes** |
