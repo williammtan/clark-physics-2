@@ -1,12 +1,13 @@
 #AP Physics 2 Class Overview
 
 
-| Unit                  | Start Date | End Date   | Total Check-in Questions |
-|-----------------------|------------|------------|---------------------------|
-| Unit 1 - Thermodynamics       | 2023-08-10 | 2023-09-01 | 5                         |
-| Unit 2 - Fluids | 2023-09-04 | 2023-09-20 | 6                         |
-| Unit 3 - Electrostatics | 2023-09-21 | 2023-10-04 | 7                         |
-| Unit 4 - Circuits     | 2023-10-05 | 2023-11-03 | 10                        |
-| Unit 5 - Electromagnetism | 2023-11-06 | 2023-12-08 | 7                         |
-| Unit 6 - Optics       | 2024-01-09 | 2024-02-01 | 10                        |
-| Unit 7 - Modern       | 2024-02-15 | 2024-03-25 | 12                        |
+| **Unit**                | **Start Date**   | **End Date**     | **Topics Covered**                                                                                  | **Number of Classes** |
+|-------------------------|------------------|------------------|-----------------------------------------------------------------------------------------------------|-----------------------|
+| **Unit 1 - Thermal Physics** | Aug 16, 2023    | Aug 30, 2023    | Gas properties, Ideal gas law, Kinetic theory of gases, First law of thermodynamics, PV diagrams, Gas processes, Second law of thermodynamics | 8                     |
+| **Unit 2 - Fluid Mechanics**  | Aug 30, 2023    | Sep 12, 2023    | Archimedes' principle, Pascal's principle, Continuity equation, Bernoulli's principle, Fluid dynamics | 7                     |
+| **Unit 3 - Electrostatics**   | Sep 27, 2023    | Oct 10, 2023    | Electric charge, Coulomb's law, Electric field, Electric potential, Capacitance, Methods of charging | 8                     |
+| **Unit 4 - Circuits**         | Nov 7, 2023     | Nov 15, 2023    | Ohm’s law, Series and parallel circuits, Kirchhoff's rules, RC circuits, Internal resistance, Power in circuits | 8                     |
+| **Unit 5 - Electromagnetism** | Nov 29, 2023    | Dec 11, 2023    | Magnetic fields, Forces on moving charges, Forces on current-carrying wires, Faraday's law, Lenz's law, Motional EMF | 7                     |
+| **Unit 6 - Optics**           | Jan 24, 2024    | Feb 5, 2024     | Reflection and refraction, Lenses and mirrors, Wave interference, Diffraction, Thin film interference | 8                     |
+| **Unit 7 - Modern Physics**   | Mar 1, 2024     | Mar 25, 2024    | Photoelectric effect, Wave-particle duality, Atomic models, Nuclear physics, Radioactivity, Fission and fusion | 9                     |
+
